@@ -53,7 +53,6 @@
 
 	"use strict";
 
-	// Let's use some ES6 features
 	var averageScore = "90";
 	var messageToDisplay = "average score " + averageScore;
 
